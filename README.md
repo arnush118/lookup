@@ -1,6 +1,4 @@
-Phone Number Lookup
-Overview
-A simple Python script to check who owns a phone number from a predefined list.
+lookup
 
 How It Works
 User enters a phone number.
